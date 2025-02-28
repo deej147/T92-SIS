@@ -1,2 +1,8 @@
-# T92-SIS
-Student-InformationEnrollment-System
+# CLASS CODE: T92
+
+# SYSTEM TITLE: STUDENT-INFORMATION-SYSTEM
+
+# DESCRIPTION: A submission to demonstrate Laravel CRUD Application
+
+# STUDENT NAME: DAVID JOB LOLO
+
